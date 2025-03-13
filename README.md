@@ -35,12 +35,12 @@ This is a backend application built with **TypeScript + Express + Prisma** 🚀.
 
 ### Clone the Repository Frontend
 ```bash
-git clone https://github.com/ruwibdilshani/cinnamon_bliss_frontend.git
+https://github.com/Sarankumar1812/CinnamonBliss-Backend.git
 ```
 
 ### Clone the Repository Backend
 ```bash
-git clone https://github.com/ruwibdilshani/cinnamon_bliss_api.git
+https://github.com/Sarankumar1812/CinnamonBliss-Backend.git
 ```
 
 
